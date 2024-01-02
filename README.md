@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">I don't know how to introduce myself... just add me on Discord : Zahraa1015</h2>
 
 ###
 
@@ -41,17 +41,15 @@
 
 <div align="left">
   <a href="https://www.instagram.com/zhr.xx1015/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zahraa-altekreeti-13434922a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31niilesbhetexhkbz7ch6pjpsmi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="35" alt="spotify logo"/>
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/xmonstabebex/xmonstabebex/output/snake.svg" alt="Snake animation" />
-
-###
