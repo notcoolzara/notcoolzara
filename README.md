@@ -42,12 +42,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/zhr.xx1015/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zahraa-altekreeti-13434922a/" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://open.spotify.com/user/31niilesbhetexhkbz7ch6pjpsmi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="35" alt="spotify logo"/>
   </a>
